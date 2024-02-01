@@ -17,7 +17,6 @@
 
 <img width="600px" src="https://github.com/Quiddlee/Eat-n-split/assets/114234698/9ccfa44b-44e2-4957-bfd8-651e8f175af3"></img>
 
-
 # Technology Stack ⚙️
 ### **Developing⚛️**
 - **React.js**
