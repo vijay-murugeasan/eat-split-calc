@@ -1,4 +1,4 @@
-# **🍴💰 Eat and split | React course project**
+# **🍴💰 Eat and split | React project**
 
 *💵 Split The Bill With Your Friends!*
 
