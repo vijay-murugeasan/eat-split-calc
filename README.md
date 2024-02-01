@@ -2,7 +2,7 @@
 
 *💵 Split The Bill With Your Friends!*
 
-**👀 Preview - https://quiddlee.github.io/Eat-n-split**
+**👀 Preview - [https://eat-split-calc.vercel.app/](https://eat-split-calc.vercel.app/)**
 
 # Features 🚀
 - **Split The Bill After A Meal With Your Friend 🤝**
